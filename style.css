@@ -1,0 +1,25 @@
+body {
+    font-style:normal;
+
+}
+h1 
+    {
+   color: hotpink;
+   border-bottom: purple
+}
+h2
+  {
+font:italic ;
+}
+ul
+  {
+    background-color: #eeeeee;
+    border: 10px; color: purple;
+    padding-bottom: 2cm;
+
+  }
+  a:hover  {
+color: green
+
+  }
+  
